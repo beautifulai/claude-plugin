@@ -1,0 +1,23 @@
+{
+    "name": "beautiful-ai-v2",
+    "displayName": "Beautiful.ai",
+    "description": "The new Beautiful.ai plugin builds presentations and edits them with you, right from the chat. Describe what you need and get a designed deck in your workspace, on your Brand Kit. Then keep going, on that deck or any you already have: rewrite a slide, add or redesign slides, switch layouts, generate images, restructure the deck. It checks how each slide renders and fixes what doesn't look right. Export to PDF or PowerPoint, share, or open the deck in the editor.",
+    "author": {
+        "name": "Beautiful.ai",
+        "url": "https://www.beautiful.ai"
+    },
+    "homepage": "https://www.beautiful.ai",
+    "repository": "https://github.com/beautifulai/claude-plugin",
+    "icon": "./assets/logo.png",
+    "documentationUrl": "https://support.beautiful.ai/hc/en-us/articles/44246954338829-Beautiful-ai-MCP-Quick-Setup-FAQ",
+    "supportUrl": "https://support.beautiful.ai",
+    "privacyPolicyUrl": "https://www.beautiful.ai/privacy-policy",
+    "termsOfServiceUrl": "https://www.beautiful.ai/terms-of-service",
+    "keywords": [
+        "beautiful.ai",
+        "presentations",
+        "slides",
+        "mcp"
+    ],
+    "version": "0.7.3"
+}
