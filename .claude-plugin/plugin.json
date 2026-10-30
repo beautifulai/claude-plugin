@@ -8,6 +8,7 @@
     },
     "homepage": "https://www.beautiful.ai",
     "repository": "https://github.com/beautifulai/claude-plugin",
+    "license": "Apache-2.0",
     "icon": "./assets/logo.png",
     "documentationUrl": "https://support.beautiful.ai/hc/en-us/articles/44246954338829-Beautiful-ai-MCP-Quick-Setup-FAQ",
     "supportUrl": "https://support.beautiful.ai",
