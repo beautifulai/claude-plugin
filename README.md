@@ -16,6 +16,10 @@ You need a Beautiful.ai account. Some features, such as AI-generated pictures, d
 
 Claude may ask once where your pictures should come from and which Brand Kit to use, and can remember your answer for next time.
 
+## Already using the Beautiful.ai connector?
+
+This plugin replaces the earlier Beautiful.ai connector from the Connectors directory, which creates a presentation in one go. If you have that connector connected, disconnect it (Customize > Connectors) or turn it off in the conversation: with both on, Claude sees two sets of similar tools and may use the old one, which cannot edit slides.
+
 ## What the plugin contains
 
 - Skills that teach Claude how to build a presentation, edit and review slides, pick templates and lay out slide content. They are Markdown only: the plugin has no scripts, hooks or agents, and runs nothing on your computer.

@@ -1,7 +1,7 @@
 {
     "name": "beautiful-ai-v2",
     "displayName": "Beautiful.ai",
-    "description": "The new Beautiful.ai plugin builds presentations and edits them with you, right from the chat. Describe what you need and get a designed deck in your workspace, on your Brand Kit. Then keep going, on that deck or any you already have: rewrite a slide, add or redesign slides, switch layouts, generate images, restructure the deck. It checks how each slide renders and fixes what doesn't look right. Export to PDF or PowerPoint, share, or open the deck in the editor.",
+    "description": "The new Beautiful.ai plugin builds and edits presentations with you, in the chat. Describe what you need and get a designed deck in your workspace, on your Brand Kit. Then keep going on that deck or any you already have: rewrite, add or redesign slides, generate images, restructure. It checks how each slide renders and fixes what looks wrong. Export to PDF or PowerPoint, share, or open it in the editor. Disconnect the old Beautiful.ai connector to avoid duplicate tools.",
     "author": {
         "name": "Beautiful.ai",
         "url": "https://www.beautiful.ai"
