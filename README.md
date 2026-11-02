@@ -29,6 +29,7 @@ This plugin replaces the earlier Beautiful.ai connector from the Connectors dire
 
 - Your requests and the slide content Claude writes are sent to the Beautiful.ai MCP server, which reads and changes presentations, slides, themes, assets and notes in the Beautiful.ai workspaces you belong to, with the permissions your account has.
 - When you ask for pictures, the server finds them in stock libraries, on the web or among your Team Assets, or generates them with AI, depending on your workspace's plan and permissions, and saves them as assets of your workspace.
+- To put a picture of your own on a slide, Claude uploads the file to Beautiful.ai's storage on Google Cloud Storage (`storage.googleapis.com`), through a short-lived upload URL the server issues for that one file, or sends it to the server directly. Either way the picture becomes an asset of your workspace. Nothing else is sent anywhere but the Beautiful.ai MCP server.
 - Claude can save your preferences, such as where your pictures should come from, as notes in your Beautiful.ai account.
 - Sharing tools create links to your presentation or share it with people you name. A public link makes the presentation viewable by anyone who has it.
 - The plugin does not delete presentations and does not change your plan or billing; do that in the Beautiful.ai app.
